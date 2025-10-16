@@ -1,4 +1,3 @@
-%%writefile Mejor_Tiempo_Compra_Venta.cpp
 #include <iostream>
 #include <vector>
 #include <random>  
