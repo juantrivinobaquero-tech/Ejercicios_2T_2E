@@ -1,4 +1,3 @@
-%%writefile triangulo_pascal.cpp
 #include <iostream>
 #include <vector>
 
